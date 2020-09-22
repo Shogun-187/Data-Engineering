@@ -1,3 +1,7 @@
+# pip install these if you haven't:
+# %pip install python-Levenshtein
+# %pip install fuzzywuzzy
+
 # Import libraries
 import pandas as pd
 from datetime import datetime
